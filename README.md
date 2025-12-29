@@ -1,0 +1,2 @@
+# vcecLgBrOd
+本简易通讯录后台管理系统基于SSM框架，核心功能包括增删改查及模糊搜索。系统采用Spring、SpringMVC、Mybatis等技术，整合Maven、Tomcat和Mysql，使用C3P0数据库连接池和log4j进行日志管理。主要用途是实现高效的通讯录信息管理，助力用户便捷地维护联系人数据，提升工作效率。
